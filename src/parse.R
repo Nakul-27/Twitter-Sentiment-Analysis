@@ -5,6 +5,7 @@ library(tidytext)
 library(tidyverse)
 library(stringi)
 
+# NOTE THAT SECURITY ISN'T VIOLATED SINCE THESE DON'T WORK ANYMORE
 app_name <- "COVID-19 SSA"
 consumer_key <- "liWAcmuVJlqgUAtVPQfw0PfFu"
 consumer_secret <- "jZlerwkPjYDyjVm93TYWyxMah7PeKCXyWLiHGRCOurFJsDC88Y"
