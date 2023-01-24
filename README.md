@@ -1,15 +1,15 @@
 # Sentiment-Analysis-Project
-## Authors: Nakul RAO '24 & Aidan CARR '24
+---
+## Authors: Nakul Rao '24 & Aidan Carr '24
+---
+### Project for MA 206 -- Probability and Statistics
 
-## Project for MA 206 - Probability & Statistics. 
+Reads a csv file of tweets and cleans it. Then analyzes the sentiments and produces plots.
 
-### Broad Intent: Read a file of tweets and be able to analyze the sentiments using Scala. From there statistically analyze the created sentiments in R.
+### Potential Expansions
+[ ] Conduct sensitivity analysis of sentiments.
+[ ] Use graph theory some way.
+[ ] Use follower data to analyze spam/bot accounts -- Do they have a significant impact?
+[ ] Work with political scientists to find out how this effects election outcomes.
 
-### Tasks
-- [ ] Read from Tweets file
-- [ ] Parse Tweets
-- [ ] Analyze Sentiments 
-- [ ] Categorize Tweets by Sentiments
-- [ ] Read categorized tweets into R 
-- [ ] Statistically analyze sentiments
 
